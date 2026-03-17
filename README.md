@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Your Name
 
-<!--
-**vishal4812/vishal4812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Engineer | 5+ years | AWS Serverless, Node.js, Laravel, Python
 
-Here are some ideas to get you started:
+## About
+- Building scalable backend systems and multi-tenant SaaS
+- Strong in AWS Lambda, DynamoDB, SQS, Cognito, Stripe
+- Open to collaboration on backend and platform projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+
+## Featured Projects
+- Serverless SaaS Starter on AWS
+- Event-Driven Billing Platform
+- Shopify Subscription App
+
+## Contact
+- Email: vishalchunara24@gmail.com
